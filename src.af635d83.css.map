@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss/body.scss","scss/normalize.scss"],"names":[],"mappings":"AAAA,KACE,iECDF,GACE","file":"src.af635d83.css","sourceRoot":"../src","sourcesContent":["body {\n  font-family: Impact, Haettenschweiler, \"Arial Narrow Bold\", sans-serif;\n}\n","ul {\n  list-style: none;\n}\n"]}
